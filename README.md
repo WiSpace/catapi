@@ -1,2 +1,0 @@
-# catapi
-wsapi.cat
